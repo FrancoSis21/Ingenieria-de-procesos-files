@@ -10,7 +10,6 @@
 **Grupo:** A  
 **Profesor:** Ing. Condori Alejo Henry Iván  
 **Semestre:** VI  
-**Código:** 230494  
 
 **Integrantes:**  
 - Rojas Luque Franco  
