@@ -6,9 +6,9 @@
 
 
 
+![Imagen del proyecto](https://raw.githubusercontent.com/FrancoSis21/Ingenieria-de-procesos-files/main/img/rama.png)
 ---
 
-![Imagen del proyecto](https://raw.githubusercontent.com/FrancoSis21/Ingenieria-de-procesos-files/main/img/rama.png)
 
 
 # 📘 ENTREGABLE FINAL – Ingeniería de Procesos
