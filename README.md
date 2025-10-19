@@ -2,8 +2,8 @@
 
 > Antes de navegar por las carpetas o archivos de este repositorio, asegúrate de estar en la **rama `main`**, ya que es la **rama oficial del proyecto**.  
 > Si GitHub te muestra otra rama o contenido vacío, cámbialo manualmente desde el selector de ramas en la parte superior izquierda y selecciona **`main`** MUCHAS GRACIAS :D.
+![Imagen del proyecto](https://raw.githubusercontent.com/FrancoSis21/Ingenieria-de-procesos-files/main/img/rama.png)
 
-![Imagen del proyecto]([URL_QUE_COPIASTE](https://github.com/FrancoSis21/Ingenieria-de-procesos-files/blob/cde8239be676db753732d6a1aa3f273e816167ea/img/rama.png))
 
 
 
