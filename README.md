@@ -13,8 +13,7 @@
 **Facultad:** Facultad de Ingeniería Mecánica Eléctrica, Electrónica y Sistemas  
 **Carrera:** Ingeniería de Sistemas  
 **Asignatura:** Ingeniería de Procesos  
-
-**Título del trabajo:** PROCESO DE TESIS 
+**Título del trabajo:** PROCESO DE TESIS
 **Grupo:** A  
 **Profesor:** Ing. Condori Alejo Henry Iván  
 **Semestre:** VI  
